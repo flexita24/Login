@@ -1,0 +1,49 @@
+.img_home{
+    position: absolute;
+    width: 764px;
+    height: 900px;
+    left: 0px;
+    top: 0px;
+}
+.bg_color{
+    background: rgba(251, 221, 187, 0.51);
+    position: absolute;
+    width: 764px;
+    height: 900px;
+    left: 0px;
+    top: 0px;
+}
+.welcome{
+    position: absolute;
+    width: 214px;
+    height: 33px;
+    left: 982px;
+    top: 278px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 27px;
+    line-height: 33px;
+    /* identical to box height, or 122% */
+    
+    
+    color: #00302E;
+}
+.email_box{
+    position: absolute;
+    width: 214px;
+    height: 33px;
+    left: 982px;
+    top: 278px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 27px;
+    line-height: 33px;
+    /* identical to box height, or 122% */
+    
+    
+    color: #00302E;
+}
